@@ -1,0 +1,13 @@
+server:
+  port: 8880
+
+---
+spring:
+  profiles: a
+server:
+  port: 8880
+---
+spring:
+  profiles: b
+server:
+  port: 8881

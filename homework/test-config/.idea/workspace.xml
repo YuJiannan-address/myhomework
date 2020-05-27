@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c86bdfe8-a38f-4a3b-9773-aa47bc568876" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lagou/config/CuratorUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lagou/config/CuratorUtil.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/green/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cGJwBfOfs34hUrdpwJNsMtUTQS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zdy_rpc" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="test-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TestApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c86bdfe8-a38f-4a3b-9773-aa47bc568876" name="Default Changelist" comment="" />
+      <created>1590149232882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590149232882</updated>
+      <workItem from="1590149236944" duration="31000" />
+      <workItem from="1590149274745" duration="1481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1590149266089">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1590149266089" />
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1590151827152">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590151827152" />
+    <state width="1557" height="276" key="GridCell.Tab.0.center" timestamp="1590151827152">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590151827152" />
+    <state width="1557" height="276" key="GridCell.Tab.0.left" timestamp="1590151827151">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590151827151" />
+    <state width="1557" height="276" key="GridCell.Tab.0.right" timestamp="1590151827152">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590151827152" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1590151827152">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590151827152" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1590151827152">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1590151827152" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1590151827152">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1590151827152" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1590151827152">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1590151827152" />
+    <state width="1557" height="276" key="GridCell.Tab.2.bottom" timestamp="1590151827153">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.2.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590151827153" />
+    <state width="1557" height="276" key="GridCell.Tab.2.center" timestamp="1590151827153">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.2.center/0.0.1600.860@0.0.1600.860" timestamp="1590151827153" />
+    <state width="1557" height="276" key="GridCell.Tab.2.left" timestamp="1590151827153">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.2.left/0.0.1600.860@0.0.1600.860" timestamp="1590151827153" />
+    <state width="1557" height="276" key="GridCell.Tab.2.right" timestamp="1590151827153">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.2.right/0.0.1600.860@0.0.1600.860" timestamp="1590151827153" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1590149250617">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1590149250617" />
+    <state x="476" y="29" width="647" height="801" key="find.popup" timestamp="1590151628350">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="476" y="29" width="647" height="801" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1590151628350" />
+    <state x="463" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1590149241101">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1590149241101" />
+  </component>
+</project>
